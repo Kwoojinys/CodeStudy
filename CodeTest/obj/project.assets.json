@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\업무용 파일\\Project\\CodeTest\\CodeTest\\CodeTest.csproj",
+      "projectUniqueName": "F:\\업무용 파일\\Project\\CodeTest\\CodeStudy\\CodeTest\\CodeTest.csproj",
       "projectName": "CodeTest",
-      "projectPath": "F:\\업무용 파일\\Project\\CodeTest\\CodeTest\\CodeTest.csproj",
+      "projectPath": "F:\\업무용 파일\\Project\\CodeTest\\CodeStudy\\CodeTest\\CodeTest.csproj",
       "packagesPath": "C:\\Users\\aleld\\.nuget\\packages\\",
-      "outputPath": "F:\\업무용 파일\\Project\\CodeTest\\CodeTest\\obj\\",
+      "outputPath": "F:\\업무용 파일\\Project\\CodeTest\\CodeStudy\\CodeTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
