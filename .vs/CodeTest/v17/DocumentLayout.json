@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|f:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\project\\codetest\\codetest\\programmers172928.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|solutionrelative:codetest\\programmers172928.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|f:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\project\\codetest\\codetest\\programmers178871.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|solutionrelative:codetest\\programmers178871.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Programmers172928.cs",
+              "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeTest\\Programmers172928.cs",
+              "RelativeDocumentMoniker": "CodeTest\\Programmers172928.cs",
+              "ToolTip": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeTest\\Programmers172928.cs*",
+              "RelativeToolTip": "CodeTest\\Programmers172928.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:29:15.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programmers178871.cs",
+              "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeTest\\Programmers178871.cs",
+              "RelativeDocumentMoniker": "CodeTest\\Programmers178871.cs",
+              "ToolTip": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeTest\\Programmers178871.cs",
+              "RelativeToolTip": "CodeTest\\Programmers178871.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:52:21.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

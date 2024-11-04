@@ -1,0 +1,4 @@
+F:\업무용 파일\Project\CodeTest\CodeTest\obj\Debug\net8.0\CodeTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\업무용 파일\Project\CodeTest\CodeTest\obj\Debug\net8.0\CodeTest.AssemblyInfoInputs.cache
+F:\업무용 파일\Project\CodeTest\CodeTest\obj\Debug\net8.0\CodeTest.AssemblyInfo.cs
+F:\업무용 파일\Project\CodeTest\CodeTest\obj\Debug\net8.0\CodeTest.csproj.CoreCompileInputs.cache
