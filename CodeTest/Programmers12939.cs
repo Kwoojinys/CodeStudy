@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 Lv.2 연습문제  - 최댓값과 최솟값
-    public class Solution12939
+    public class Programmers12939
     {
         public string solution(string s)
         {

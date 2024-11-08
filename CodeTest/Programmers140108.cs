@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 Lv.1 연습문제 - 문자열 나누기
-    public class Solution140108
+    public class Programmers140108
     {
         public void solve(string s, ref int answer)
         {

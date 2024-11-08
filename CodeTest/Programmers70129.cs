@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 월간 코드 챌린지 시즌1 - 이진 변환 반복하기
-    public class Solution70129
+    public class Programmers70129
     {
         public int[] solution(string s)
         {

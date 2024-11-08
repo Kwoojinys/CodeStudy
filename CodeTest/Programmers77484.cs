@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 2021 Dev-Matching : 웹 백엔드 개발자(상반기) - 로또의 최고 순위와 최저 순위
-    public class Solution77484
+    public class Programmers77484
     {
         public int[] solution(int[] lottos, int[] win_nums)
         {

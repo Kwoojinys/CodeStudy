@@ -8,7 +8,7 @@ namespace CodeTest
 {
     // 프로그래머스 Lv.1 연습문제 - 소수 찾기
 
-    public class Solution12921
+    public class Programmers12921
     {
         public int solution(int n)
         {

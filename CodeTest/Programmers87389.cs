@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 월간 코드 챌린지 시즌3 - 나머지가 1이 되는 수 찾기
-    internal class Programmers87389
+    public class Programmers87389
     {
         public int solution(int n)
         {

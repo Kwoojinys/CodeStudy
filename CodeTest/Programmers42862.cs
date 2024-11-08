@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 Lv.1 탐욕법 - 체육복
-    public class Solution42862
+    public class Programmers42862
     {
         public int solution(int n, int[] lost, int[] reserve)
         {

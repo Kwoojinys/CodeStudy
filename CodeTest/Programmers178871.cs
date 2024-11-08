@@ -5,7 +5,7 @@ using System.Collections.Generic;
 namespace CodeTest
 {
     // 프로그래머스 Lv.1 연습문제 - 달리기 경주
-    public class Solution178871
+    public class Programmers178871
     {
         public string[] solution(string[] players, string[] callings)
         {

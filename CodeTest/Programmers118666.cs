@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 Lv.1 2022 KAKAO TECH INTERNSHIP - 성격 유형 검사하기
-    public class Solution118666
+    public class Programmers118666
     {
         public string solution(string[] survey, int[] choices)
         {

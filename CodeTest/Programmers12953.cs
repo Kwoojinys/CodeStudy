@@ -8,7 +8,7 @@ namespace CodeTest
 {
     // 프로그래머스 Lv.2 연습문제 - N개의 최소공배수
 
-    public class Solution12953
+    public class Programmers12953
     {
         public int solution(int[] arr)
         {

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 Lv.1 연습문제 - 바탕화면 정리
-    public class Solution161990
+    public class Programmers161990
     {
         public int[] solution(string[] wallpaper)
         {

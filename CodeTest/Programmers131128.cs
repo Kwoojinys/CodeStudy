@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 Lv.1 연습문제 - 숫자 짝꿍
-    public class Solution131128
+    public class Programmers131128
     {
         public string solution(string X, string Y)
         {

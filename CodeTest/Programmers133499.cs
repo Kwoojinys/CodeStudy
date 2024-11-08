@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 Lv.1 연습문제 - 옹알이 (2)
-    public class Solution133499
+    public class Programmers133499
     {
         public int solution(string[] babbling)
         {

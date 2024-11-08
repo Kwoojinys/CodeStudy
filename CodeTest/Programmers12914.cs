@@ -8,7 +8,7 @@ namespace CodeTest
 {
     // 프로그래머스 Lv.2 연습 문제 - 멀리 뛰기
     // https://programmer-may.tistory.com/215 참조, 피보나치 수열
-    public class Solution12914
+    public class Programmers12914
     {
         public long solution(int n)
         {

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 월간 코드 챌린지 시즌1 - 두 개 뽑아서 더하기
-    public class Solution68644
+    public class Programmers68644
     {
         void BubbleSortFunc(int[] arr)
         {

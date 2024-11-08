@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 Lv.1 연습문제 - 명예의 전당 (1)
-    public class Solution138477
+    public class Programmers138477
     {
         public int[] solution(int k, int[] score)
         {

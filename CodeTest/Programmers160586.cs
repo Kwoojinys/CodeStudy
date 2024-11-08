@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 Lv.1 연습문제 - 대충 만든 자판
-    public class Solution160586
+    public class Programmers160586
     {
         public int[] solution(string[] keymap, string[] targets)
         {

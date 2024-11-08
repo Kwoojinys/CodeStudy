@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 Lv.1 연습문제 - 카드 뭉치
-    public class Solution159994
+    public class Programmers159994
     {
         public string solution(string[] cards1, string[] cards2, string[] goal)
         {

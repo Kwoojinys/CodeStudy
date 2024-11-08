@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CodeTest
 {
     // 프로그래머스 Lv.1 연습문제 - 공원 산책
-    public class Solution172928
+    public class Programmers172928
     {
         public int[] solution(string[] park, string[] routes)
         {
