@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodeTest
 {
+    // 프로그래머스 Lv.1 연습문제 - 소수 찾기
+
     public class Solution12921
     {
-        // 프로그래머스 Lv.1 연습문제 - 소수 찾기
         public int solution(int n)
         {
             List<int> primeList = new List<int>(n + 1);

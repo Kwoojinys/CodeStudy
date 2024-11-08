@@ -68,6 +68,8 @@ _ReSharper*/
 # Click-Once directory
 publish/
 
+*.vsidx
+
 # Publish Web Output
 *.Publish.xml
 *.pubxml
@@ -131,3 +133,4 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+*.vsidx

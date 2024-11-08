@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|solutionrelative:codetest\\programmers138477.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|f:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\project\\codetest\\codestudy\\codetest\\programmers12939.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|solutionrelative:codetest\\programmers12939.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|f:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\project\\codetest\\codestudy\\codetest\\programmers12921.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|solutionrelative:codetest\\programmers12921.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|f:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\project\\codetest\\codestudy\\codetest\\programmers77484.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|solutionrelative:codetest\\programmers77484.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|f:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\project\\codetest\\codestudy\\codetest\\programmers70129.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|solutionrelative:codetest\\programmers70129.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|f:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\project\\codetest\\codestudy\\codetest\\programmers136798.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|solutionrelative:codetest\\programmers136798.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|f:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\project\\codetest\\codestudy\\codetest\\programmers118666.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|solutionrelative:codetest\\programmers118666.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|f:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\project\\codetest\\codestudy\\codetest\\programmers12921.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|solutionrelative:codetest\\programmers12921.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F6B173B-21A1-4CF0-9E83-F36B6B3D296B}|CodeTest\\CodeTest.csproj|f:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\project\\codetest\\codestudy\\codetest\\programmers178871.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -87,6 +99,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Programmers12939.cs",
+              "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers12939.cs",
+              "RelativeDocumentMoniker": "CodeTest\\Programmers12939.cs",
+              "ToolTip": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers12939.cs*",
+              "RelativeToolTip": "CodeTest\\Programmers12939.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:30:49.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Programmers77484.cs",
+              "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers77484.cs",
+              "RelativeDocumentMoniker": "CodeTest\\Programmers77484.cs",
+              "ToolTip": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers77484.cs",
+              "RelativeToolTip": "CodeTest\\Programmers77484.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:05:46.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Programmers136798.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers136798.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers136798.cs",
@@ -94,8 +132,7 @@
               "RelativeToolTip": "CodeTest\\Programmers136798.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T08:11:46.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T08:11:46.565Z"
             },
             {
               "$type": "Document",
@@ -105,14 +142,14 @@
               "RelativeDocumentMoniker": "CodeTest\\Programmers138477.cs",
               "ToolTip": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers138477.cs",
               "RelativeToolTip": "CodeTest\\Programmers138477.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T08:11:29.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Programmers118666.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers118666.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers118666.cs",
@@ -120,12 +157,11 @@
               "RelativeToolTip": "CodeTest\\Programmers118666.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADwvx8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T06:52:17.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T06:52:17.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Programmers42862.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers42862.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers42862.cs",
@@ -133,12 +169,11 @@
               "RelativeToolTip": "CodeTest\\Programmers42862.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:04:40.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T09:04:40.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Programmers160586.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers160586.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers160586.cs",
@@ -150,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Programmers81301.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers81301.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers81301.cs",
@@ -162,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Programmers155652.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers155652.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers155652.cs",
@@ -174,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Programmers159994.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers159994.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers159994.cs",
@@ -186,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Programmers134240.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers134240.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers134240.cs",
@@ -198,7 +233,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
+              "Title": "Programmers12921.cs",
+              "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers12921.cs",
+              "RelativeDocumentMoniker": "CodeTest\\Programmers12921.cs",
+              "ToolTip": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers12921.cs",
+              "RelativeToolTip": "CodeTest\\Programmers12921.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:26:45.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Programmers70129.cs",
+              "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers70129.cs",
+              "RelativeDocumentMoniker": "CodeTest\\Programmers70129.cs",
+              "ToolTip": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers70129.cs",
+              "RelativeToolTip": "CodeTest\\Programmers70129.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:07:43.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Programmers135808.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers135808.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers135808.cs",
@@ -210,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Programmers133502.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers133502.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers133502.cs",
@@ -222,20 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Programmers12921.cs",
-              "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers12921.cs",
-              "RelativeDocumentMoniker": "CodeTest\\Programmers12921.cs",
-              "ToolTip": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers12921.cs",
-              "RelativeToolTip": "CodeTest\\Programmers12921.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T05:26:45.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Programmers132267.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers132267.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers132267.cs",
@@ -247,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Programmers131128.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers131128.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers131128.cs",
@@ -259,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Programmers178871.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers178871.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers178871.cs",
@@ -271,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Programmers133499.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers133499.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers133499.cs",
@@ -283,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Programmers172928.cs",
               "DocumentMoniker": "F:\\\uC5C5\uBB34\uC6A9 \uD30C\uC77C\\Project\\CodeTest\\CodeStudy\\CodeTest\\Programmers172928.cs",
               "RelativeDocumentMoniker": "CodeTest\\Programmers172928.cs",
